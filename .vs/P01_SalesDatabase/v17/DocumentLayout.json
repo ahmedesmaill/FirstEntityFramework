@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\al873\\source\\repos\\P01_SalesDatabase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3C37490-9C72-4A2A-B8BD-D9952CE7293A}|P01_SalesDatabase.csproj|c:\\users\\al873\\source\\repos\\p01_salesdatabase\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3C37490-9C72-4A2A-B8BD-D9952CE7293A}|P01_SalesDatabase.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3C37490-9C72-4A2A-B8BD-D9952CE7293A}|P01_SalesDatabase.csproj|c:\\users\\al873\\source\\repos\\p01_salesdatabase\\migrations\\20240910194032_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3C37490-9C72-4A2A-B8BD-D9952CE7293A}|P01_SalesDatabase.csproj|solutionrelative:migrations\\20240910194032_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3C37490-9C72-4A2A-B8BD-D9952CE7293A}|P01_SalesDatabase.csproj|c:\\users\\al873\\source\\repos\\p01_salesdatabase\\models\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3C37490-9C72-4A2A-B8BD-D9952CE7293A}|P01_SalesDatabase.csproj|solutionrelative:models\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3C37490-9C72-4A2A-B8BD-D9952CE7293A}|P01_SalesDatabase.csproj|c:\\users\\al873\\source\\repos\\p01_salesdatabase\\models\\product .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3C37490-9C72-4A2A-B8BD-D9952CE7293A}|P01_SalesDatabase.csproj|solutionrelative:models\\product .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3C37490-9C72-4A2A-B8BD-D9952CE7293A}|P01_SalesDatabase.csproj|c:\\users\\al873\\source\\repos\\p01_salesdatabase\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3C37490-9C72-4A2A-B8BD-D9952CE7293A}|P01_SalesDatabase.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3C37490-9C72-4A2A-B8BD-D9952CE7293A}|P01_SalesDatabase.csproj|c:\\users\\al873\\source\\repos\\p01_salesdatabase\\migrations\\20240910194207_productsaddcolumndescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3C37490-9C72-4A2A-B8BD-D9952CE7293A}|P01_SalesDatabase.csproj|solutionrelative:migrations\\20240910194207_productsaddcolumndescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3C37490-9C72-4A2A-B8BD-D9952CE7293A}|P01_SalesDatabase.csproj|c:\\users\\al873\\source\\repos\\p01_salesdatabase\\models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3C37490-9C72-4A2A-B8BD-D9952CE7293A}|P01_SalesDatabase.csproj|solutionrelative:models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\al873\\source\\repos\\P01_SalesDatabase\\Migrations\\20240910193314_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240910193314_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3C37490-9C72-4A2A-B8BD-D9952CE7293A}|P01_SalesDatabase.csproj|c:\\users\\al873\\source\\repos\\p01_salesdatabase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3C37490-9C72-4A2A-B8BD-D9952CE7293A}|P01_SalesDatabase.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240910194032_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\al873\\source\\repos\\P01_SalesDatabase\\Migrations\\20240910194032_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240910194032_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\al873\\source\\repos\\P01_SalesDatabase\\Migrations\\20240910194032_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20240910194032_InitialCreate.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T19:40:32.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240910193314_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\al873\\source\\repos\\P01_SalesDatabase\\Migrations\\20240910193314_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240910193314_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\al873\\source\\repos\\P01_SalesDatabase\\Migrations\\20240910193314_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20240910193314_InitialCreate.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwBgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T19:33:15.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Sale.cs",
+              "DocumentMoniker": "C:\\Users\\al873\\source\\repos\\P01_SalesDatabase\\Models\\Sale.cs",
+              "RelativeDocumentMoniker": "Models\\Sale.cs",
+              "ToolTip": "C:\\Users\\al873\\source\\repos\\P01_SalesDatabase\\Models\\Sale.cs",
+              "RelativeToolTip": "Models\\Sale.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T18:51:19.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product .cs",
+              "DocumentMoniker": "C:\\Users\\al873\\source\\repos\\P01_SalesDatabase\\Models\\Product .cs",
+              "RelativeDocumentMoniker": "Models\\Product .cs",
+              "ToolTip": "C:\\Users\\al873\\source\\repos\\P01_SalesDatabase\\Models\\Product .cs",
+              "RelativeToolTip": "Models\\Product .cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAABQAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T18:51:19.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\al873\\source\\repos\\P01_SalesDatabase\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\al873\\source\\repos\\P01_SalesDatabase\\Models\\Customer.cs",
+              "RelativeToolTip": "Models\\Customer.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAoAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T18:51:18.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\al873\\source\\repos\\P01_SalesDatabase\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\al873\\source\\repos\\P01_SalesDatabase\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T18:41:24.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Store.cs",
+              "DocumentMoniker": "C:\\Users\\al873\\source\\repos\\P01_SalesDatabase\\Models\\Store.cs",
+              "RelativeDocumentMoniker": "Models\\Store.cs",
+              "ToolTip": "C:\\Users\\al873\\source\\repos\\P01_SalesDatabase\\Models\\Store.cs",
+              "RelativeToolTip": "Models\\Store.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T18:52:06.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20240910194207_ProductsAddColumnDescription.cs",
+              "DocumentMoniker": "C:\\Users\\al873\\source\\repos\\P01_SalesDatabase\\Migrations\\20240910194207_ProductsAddColumnDescription.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240910194207_ProductsAddColumnDescription.cs",
+              "ToolTip": "C:\\Users\\al873\\source\\repos\\P01_SalesDatabase\\Migrations\\20240910194207_ProductsAddColumnDescription.cs",
+              "RelativeToolTip": "Migrations\\20240910194207_ProductsAddColumnDescription.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T19:42:07.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\al873\\source\\repos\\P01_SalesDatabase\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\al873\\source\\repos\\P01_SalesDatabase\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T18:35:28.935Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
